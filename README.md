@@ -69,7 +69,6 @@ A **web-based music player** built with vanilla web technologies.
 
 ## 📊 GitHub Stats  
 
-![Avishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avishek-7&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek-7&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Avishek-7&theme=radical)  
 
