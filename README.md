@@ -22,7 +22,7 @@ A **production-grade RAG-based customer support chatbot** built on a microservic
 An **AI-powered meeting transcript analyzer** with local transcription and LLM-generated insights.
 - **Features:** Audio transcription, action item extraction, meeting summaries, speaker analysis, dark-themed React dashboard
 - **Stack:** FastAPI, Python, Anthropic SDK (Claude), faster-whisper (large-v3), React, TypeScript
-- **Repo:** *(link your repo here)*
+- **Repo:** [GitHub](https://github.com/Avishek-7/meeting_intel.git)
 
 ---
 
